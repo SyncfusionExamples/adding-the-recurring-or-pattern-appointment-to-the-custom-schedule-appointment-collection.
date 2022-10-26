@@ -1,2 +1,3 @@
-# adding-the-recurring-or-pattern-appointment-to-the-custom-schedule-appointment-collection.
-Adding the recurring or pattern appointment to the custom schedule AppointmentCollection.
+# How to add the recurring or pattern appointment to the custom schedule appointments?
+
+Adding the recurring or pattern appointment to the custom schedule AppointmentCollection. 
